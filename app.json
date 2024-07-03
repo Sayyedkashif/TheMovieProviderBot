@@ -19,15 +19,16 @@
     "repository": "https://github.com/HarshalPurohitEdits/TheMovieProviderBot",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "7305283742:AAHa2-E19x21Dh9RPtLhVKWaOJ1mUZ30lYg.",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "27317700",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "de1077f45e29e6abebcd2b9dd196be1d
+",
             "required": true
         },
         "CHANNELS": {
